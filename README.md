@@ -24,7 +24,7 @@ This workshop was created with flexibility in mind. As such, modules are fairly 
 
 
 
-### Day 01 (8h)
+### Day 01 Introduccion Amanda (8h)
 
 1. [Introduction](./md/introduction.md): Objectives, scope, requirements and expectations.
 1. [Python 101](./md/python.md): Introduction to the programming language: [description](./md/python.md), [core types](./md/python101.md), [collections (data structures)](./md/python101b.md) and [functions](./md/python101c.md).
